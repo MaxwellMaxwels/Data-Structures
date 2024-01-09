@@ -4,7 +4,10 @@ def linear_search(numbers_list, number_to_find):
             return index
     return -1
 
-  
+
+
+
+
 
 numbers_list = [12, 15, 17, 19, 21, 24, 45, 67]
 number_to_find = 688
